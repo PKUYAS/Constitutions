@@ -4,7 +4,7 @@
 
 ## 支持或者联系
 
-有问题关于章程？联系 pkuyas@126.com！
+有问题关于章程？联系 [pkuyas@126.com](mailto:pkuyas@126.com)！
 
 
 ## Welcome to PKUYAS Homepage
@@ -14,4 +14,4 @@ You can see the current Constitutions by clicking [here](https://pkuyas.github.i
 
 ### Support or Contact
 
-Having trouble with Consitituions? Contact pkuyas@126.com!
+Having trouble with Consitituions? Contact [pkuyas@126.com](mailto:pkuyas@126.com)!
